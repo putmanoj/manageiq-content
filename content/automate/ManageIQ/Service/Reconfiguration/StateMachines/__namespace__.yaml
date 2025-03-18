@@ -1,0 +1,11 @@
+---
+object_type: namespace
+version: 1.0
+object:
+  attributes:
+    name: StateMachines
+    description: StateMachines
+    display_name:
+    priority:
+    enabled:
+    relative_path: Service/Reconfiguration/StateMachines
